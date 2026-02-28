@@ -1,0 +1,3 @@
+Hello, World!
+Welcome to Python!
+Aldini is a great guy
