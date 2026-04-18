@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 from Module2.tuples import person
 
 
-class Person(ABC):
+claass Person(ABC):
     def __init__(self,name,age,weight,height):
         self.name = name
         self.age = age
